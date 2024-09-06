@@ -1,0 +1,72 @@
+nome = "Filippo"
+
+anni = 26
+
+print(nome)
+print(anni)
+
+str_num = "20"
+num =int(str_num)
+
+print(num / 2)
+
+num_dec = 10.3456
+
+num1 = int(num_dec)
+
+print(num1)
+
+print(10 + 3 + 4)
+
+num2 = 7
+#sono un commento a singola linea
+
+num3 = 7
+'''
+sono un commento 
+su più linee
+
+'''
+
+num4 = 10
+
+print(num2 + num3 + num4)
+
+print(2**4) #due alla quarta
+
+#modulo
+print(10%3)
+
+dividendo = 50
+divisore = 3
+
+risultato = dividendo/divisore
+resto = dividendo%divisore
+'''
+numero = int(input ("scrivi un numero: "))
+if numero % 2 == 0:
+    print ("pari")
+else:
+    print ("dispari")
+'''
+
+stringa1= "ciao"
+stringa2= "dal corso"
+
+numeroP= 13
+
+print(stringa1 + stringa2)
+print(stringa1 + " " + stringa2)
+print(stringa1 , stringa2)
+
+print(stringa1 , stringa2 , (numeroP+34))
+
+print(f"ciao sono una fstring stampo stringa1: {stringa1} stampo stringa2: {stringa2} stampo numerop: {numeroP/2} ")
+
+#input
+num_ut = int(input("Scrivi i tuoi anni: "))
+
+print(f"adesso hai {num_ut}, fra dieci anni ne avrai {num_ut + 10}")
+
+pi = 3.14159
+print(f"il valore di Pi con due decimali è {pi:.4f}")
