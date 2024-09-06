@@ -1,0 +1,97 @@
+#Esercizio1 variabili
+
+nome = "Filippo"
+
+print(nome)
+
+#Esercizio2 variabili
+ 
+età = 25
+
+print(età)
+
+#Esercizio3 variabili
+
+pi = 3.14159
+print(pi)
+
+#Esercizio4 variabili
+
+lunghezza = 45
+print(lunghezza)
+lunghezza = 15
+print(lunghezza)
+
+#Esercizio5 variabili
+
+nome_completo = "Filippo Di Nunzio"
+
+print(nome_completo)
+
+#Esercizio6 variabili
+
+eta_futura = età + 10
+print(eta_futura)
+
+#Esercizio7 variabili
+
+nome = "Filippo"
+cognome = "Di Nunzio"
+anno_di_nascita = "1998"
+print(nome, cognome, anno_di_nascita)
+nome = "Filippo"
+cognome = "Di Nunzio"
+anno_di_nascita = "1998"
+print(nome, cognome, anno_di_nascita)
+
+#Esercizio8 variabili
+
+età_attuale = 2024 - 1998
+
+print(età_attuale)
+
+#Esercizio1 operatori
+
+numero1= 20
+numero2= 10
+
+somma = numero1 + numero2
+
+print(somma)
+
+#Esercizio2 operatori
+
+differenza = numero1 - numero2
+print(differenza)
+
+#Esercizio3 operatori
+
+moltiplicazione = numero1 * numero2
+print(moltiplicazione)
+
+#Esercizio4 operatori
+
+quoziente = numero1 / numero2
+print(quoziente)
+
+#Esercizio5 operatori
+
+resto = numero1 % numero2
+print(resto)
+
+#Esercizio6 operatori
+
+incremento = numero1 + 1
+decremento = numero2 - 3
+print(incremento, decremento)
+
+#Esercizio7 operatori
+
+molti = numero1 * numero1 + 5 + numero2**2
+print(molti)
+
+#Esercizio8 operatori
+
+sottrae = (numero1 / numero1 - numero1)
+print(sottrae)
+
